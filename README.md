@@ -76,5 +76,18 @@ Use clear and meaningful commit messages:
 - Use GitHub Issues to report bugs or suggest improvements.
 - Provide clear steps to reproduce issues when possible.
 
+## Work Distribution
+
+Responsibilities and module workflows were allocated as follows:
+
+* **Venkat B. (@venkatbayanaboina)**
+  * **Staff Incharge Workflow:** Implemented the complete dashboard, booking management, slot configurations, notifications, and dashboard utility cleanups.
+  * **HOD Workflow:** Implemented HOD approval panels, routing fixes, escalation logs, and departmental portals.
+  * **CSED Office Portal:** Modernized the office dashboard UI and implemented the live status view, schedule viewer integration, and the centralized **Key Handover Records** module.
+  * **Release Management:** Configured production-grade Gradle signing and automated release generation.
+
+* **Collaboration (Co-worked)**
+  * **Faculty Incharge Workflow:** Co-designed and co-developed the Faculty Incharge dashboard, pending request reviews, status indicators, and booking escalations.
+
 ## Academic Integrity
 This project is part of a college assignment. All contributions must be original and properly credited within the team.
