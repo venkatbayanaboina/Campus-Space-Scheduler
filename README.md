@@ -1,5 +1,9 @@
 # Campus Space Scheduler
 
+<p align="center">
+  <img src="docs/app_logo.png" alt="Campus Space Scheduler Logo" width="120px"/>
+</p>
+
 Campus Space Scheduler is a cross-platform, mobile-first campus space scheduling system developed using Java (Android), XML (Android Layouts) and Firebase designed to manage and schedule the booking of academic spaces such as classrooms, laboratories, and halls within a campus. It helps avoid scheduling conflicts, improves space utilization, and provides a centralized platform for students, faculty, and administrators.
 
 ## Problem Statement
@@ -11,6 +15,11 @@ Manual or fragmented scheduling of campus spaces often leads to conflicts, ineff
 - Role-based access (Admin / Faculty / Student)
 - View availability of campus spaces
 - Manage bookings and schedules centrally
+
+### 📱 Visual Preview
+<p align="center">
+  <img src="docs/app_screenshot.png" alt="Campus Space Scheduler App Screenshot" width="400px"/>
+</p>
 
 # Tech Stack:
 ### Frontend (Client Application)
