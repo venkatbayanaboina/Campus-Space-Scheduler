@@ -40,5 +40,8 @@ tmp/
 *.keystore
 keystore.properties
 
+# Build artifacts
+app/release/
+
 # Other
 bfg-1.15.0.jar

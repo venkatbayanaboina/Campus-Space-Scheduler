@@ -53,6 +53,9 @@
         <activity android:name=".app_admin.ManageBookingsActivity" />
         <activity android:name=".DayScheduleActivity" />
         <activity android:name=".csed_office.CsedOfficeStaffActivity" />
+        <activity android:name=".csed_office.OfficeLiveStatusActivity" />
+        <activity android:name=".csed_office.OfficeHistoryActivity" />
+        <activity android:name=".csed_office.KeyRecordsActivity" />
 
         <activity android:name=".booking_user.BookingUserActivity"
             android:exported="true"/>
