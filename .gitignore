@@ -38,6 +38,7 @@ tmp/
 # Keystore
 *.jks
 *.keystore
+keystore.properties
 
 # Other
 bfg-1.15.0.jar
