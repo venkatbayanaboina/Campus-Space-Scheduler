@@ -38,12 +38,17 @@ Manual or fragmented scheduling of campus spaces often leads to conflicts, ineff
 - Cloud Functions handle privileged operations.
 ## Project Structure
 ```
-campus-space-scheduler/
-├── docs/
-├── src/
-├── README.md
-├── CONTRIBUTING.md
-└── .gitignore
+Campus-Space-Scheduler/
+├── app/                  # Main Android Application module
+├── appy/                 # Library module (containing HOD & Staff dashboards)
+├── appium-tests/         # UI automation tests
+├── functions/            # Firebase Cloud Functions (Node.js backend)
+├── docs/                 # Documentation and assets
+├── gradle/               # Gradle wrapper configuration
+├── build.gradle          # Root build configuration
+├── settings.gradle       # Sub-project settings
+├── firebase.json         # Firebase project configuration
+└── README.md             # Project documentation
 ```
 
 ## Branching Rules
@@ -88,6 +93,3 @@ Responsibilities and module workflows were allocated as follows:
 
 * **Collaboration (Co-worked)**
   * **Faculty Incharge Workflow:** Co-designed and co-developed the Faculty Incharge dashboard, pending request reviews, status indicators, and booking escalations.
-
-## Academic Integrity
-This project is part of a college assignment. All contributions must be original and properly credited within the team.
